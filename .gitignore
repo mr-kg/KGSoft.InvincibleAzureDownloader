@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/KGSoft.InvincibleAzureDownloader
+/KGSoft.InvincibleAzureDownloader/bin
+/KGSoft.InvincibleAzureDownloader/obj
+/KGSoft.InvincibleAzureDownloader.Test/bin
+/KGSoft.InvincibleAzureDownloader.Test/obj
